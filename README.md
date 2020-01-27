@@ -1,6 +1,6 @@
 # The Path RPG
 
-## By **Jay Winebrenner and Noah Horowitz
+## By **Jay Winebrenner and Noah Horowitz**
 
 ### Description
 
